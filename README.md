@@ -1,3 +1,5 @@
+# Gmail Agent for you : InboxGenie
+
 ## Setting up the Environment for gmail service
 -   Go to console.cloud.googe.com
 -   Create a new google cloud project 
